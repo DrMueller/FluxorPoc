@@ -1,0 +1,383 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MyGit\\Personal\\FluxorPoc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF48236-A469-4FFC-A7A5-F3CEB2B67FAD}|FluxorPoc.csproj|c:\\mygit\\personal\\fluxorpoc\\areas\\counter\\overview\\counter.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF48236-A469-4FFC-A7A5-F3CEB2B67FAD}|FluxorPoc.csproj|solutionrelative:areas\\counter\\overview\\counter.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF48236-A469-4FFC-A7A5-F3CEB2B67FAD}|FluxorPoc.csproj|c:\\mygit\\personal\\fluxorpoc\\areas\\weather\\forecast\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EF48236-A469-4FFC-A7A5-F3CEB2B67FAD}|FluxorPoc.csproj|solutionrelative:areas\\weather\\forecast\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF48236-A469-4FFC-A7A5-F3CEB2B67FAD}|FluxorPoc.csproj|c:\\mygit\\personal\\fluxorpoc\\areas\\counter\\shared\\state\\counterstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF48236-A469-4FFC-A7A5-F3CEB2B67FAD}|FluxorPoc.csproj|solutionrelative:areas\\counter\\shared\\state\\counterstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF48236-A469-4FFC-A7A5-F3CEB2B67FAD}|FluxorPoc.csproj|c:\\mygit\\personal\\fluxorpoc\\areas\\counter\\overview\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EF48236-A469-4FFC-A7A5-F3CEB2B67FAD}|FluxorPoc.csproj|solutionrelative:areas\\counter\\overview\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF48236-A469-4FFC-A7A5-F3CEB2B67FAD}|FluxorPoc.csproj|c:\\mygit\\personal\\fluxorpoc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF48236-A469-4FFC-A7A5-F3CEB2B67FAD}|FluxorPoc.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF48236-A469-4FFC-A7A5-F3CEB2B67FAD}|FluxorPoc.csproj|c:\\mygit\\personal\\fluxorpoc\\areas\\weather\\shared\\state\\weatherstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF48236-A469-4FFC-A7A5-F3CEB2B67FAD}|FluxorPoc.csproj|solutionrelative:areas\\weather\\shared\\state\\weatherstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF48236-A469-4FFC-A7A5-F3CEB2B67FAD}|FluxorPoc.csproj|c:\\mygit\\personal\\fluxorpoc\\areas\\weather\\shared\\state\\actions\\fetchforecastsactionsuccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF48236-A469-4FFC-A7A5-F3CEB2B67FAD}|FluxorPoc.csproj|solutionrelative:areas\\weather\\shared\\state\\actions\\fetchforecastsactionsuccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF48236-A469-4FFC-A7A5-F3CEB2B67FAD}|FluxorPoc.csproj|c:\\mygit\\personal\\fluxorpoc\\areas\\counter\\shared\\state\\counterstatereducers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF48236-A469-4FFC-A7A5-F3CEB2B67FAD}|FluxorPoc.csproj|solutionrelative:areas\\counter\\shared\\state\\counterstatereducers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF48236-A469-4FFC-A7A5-F3CEB2B67FAD}|FluxorPoc.csproj|c:\\mygit\\personal\\fluxorpoc\\fluxorpoc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8EF48236-A469-4FFC-A7A5-F3CEB2B67FAD}|FluxorPoc.csproj|solutionrelative:fluxorpoc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF48236-A469-4FFC-A7A5-F3CEB2B67FAD}|FluxorPoc.csproj|c:\\mygit\\personal\\fluxorpoc\\infrastructure\\storemiddlewares\\loggingmiddlewares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF48236-A469-4FFC-A7A5-F3CEB2B67FAD}|FluxorPoc.csproj|solutionrelative:infrastructure\\storemiddlewares\\loggingmiddlewares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF48236-A469-4FFC-A7A5-F3CEB2B67FAD}|FluxorPoc.csproj|c:\\mygit\\personal\\fluxorpoc\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EF48236-A469-4FFC-A7A5-F3CEB2B67FAD}|FluxorPoc.csproj|solutionrelative:app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF48236-A469-4FFC-A7A5-F3CEB2B67FAD}|FluxorPoc.csproj|c:\\mygit\\personal\\fluxorpoc\\areas\\weather\\shared\\state\\effects\\fetchforecastsactioneffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF48236-A469-4FFC-A7A5-F3CEB2B67FAD}|FluxorPoc.csproj|solutionrelative:areas\\weather\\shared\\state\\effects\\fetchforecastsactioneffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF48236-A469-4FFC-A7A5-F3CEB2B67FAD}|FluxorPoc.csproj|c:\\mygit\\personal\\fluxorpoc\\areas\\weather\\shared\\state\\weatherreducers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF48236-A469-4FFC-A7A5-F3CEB2B67FAD}|FluxorPoc.csproj|solutionrelative:areas\\weather\\shared\\state\\weatherreducers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF48236-A469-4FFC-A7A5-F3CEB2B67FAD}|FluxorPoc.csproj|c:\\mygit\\personal\\fluxorpoc\\areas\\weather\\forecast\\weather.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF48236-A469-4FFC-A7A5-F3CEB2B67FAD}|FluxorPoc.csproj|solutionrelative:areas\\weather\\forecast\\weather.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF48236-A469-4FFC-A7A5-F3CEB2B67FAD}|FluxorPoc.csproj|c:\\mygit\\personal\\fluxorpoc\\areas\\weather\\shared\\dtos\\weatherforecastdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF48236-A469-4FFC-A7A5-F3CEB2B67FAD}|FluxorPoc.csproj|solutionrelative:areas\\weather\\shared\\dtos\\weatherforecastdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF48236-A469-4FFC-A7A5-F3CEB2B67FAD}|FluxorPoc.csproj|c:\\mygit\\personal\\fluxorpoc\\areas\\weather\\shared\\state\\actions\\fetchforecastsaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF48236-A469-4FFC-A7A5-F3CEB2B67FAD}|FluxorPoc.csproj|solutionrelative:areas\\weather\\shared\\state\\actions\\fetchforecastsaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF48236-A469-4FFC-A7A5-F3CEB2B67FAD}|FluxorPoc.csproj|c:\\mygit\\personal\\fluxorpoc\\areas\\counter\\shared\\state\\actions\\incrementcounteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF48236-A469-4FFC-A7A5-F3CEB2B67FAD}|FluxorPoc.csproj|solutionrelative:areas\\counter\\shared\\state\\actions\\incrementcounteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF48236-A469-4FFC-A7A5-F3CEB2B67FAD}|FluxorPoc.csproj|c:\\mygit\\personal\\fluxorpoc\\areas\\weather\\shared\\services\\implementation\\weatherdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF48236-A469-4FFC-A7A5-F3CEB2B67FAD}|FluxorPoc.csproj|solutionrelative:areas\\weather\\shared\\services\\implementation\\weatherdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF48236-A469-4FFC-A7A5-F3CEB2B67FAD}|FluxorPoc.csproj|c:\\mygit\\personal\\fluxorpoc\\areas\\weather\\shared\\services\\iweatherdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF48236-A469-4FFC-A7A5-F3CEB2B67FAD}|FluxorPoc.csproj|solutionrelative:areas\\weather\\shared\\services\\iweatherdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 22,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FluxorPoc",
+              "DocumentMoniker": "C:\\MyGit\\Personal\\FluxorPoc\\FluxorPoc.csproj",
+              "RelativeDocumentMoniker": "FluxorPoc.csproj",
+              "ToolTip": "C:\\MyGit\\Personal\\FluxorPoc\\FluxorPoc.csproj",
+              "RelativeToolTip": "FluxorPoc.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-23T15:26:28.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoggingMiddlewares.cs",
+              "DocumentMoniker": "C:\\MyGit\\Personal\\FluxorPoc\\Infrastructure\\StoreMiddlewares\\LoggingMiddlewares.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\StoreMiddlewares\\LoggingMiddlewares.cs",
+              "ToolTip": "C:\\MyGit\\Personal\\FluxorPoc\\Infrastructure\\StoreMiddlewares\\LoggingMiddlewares.cs",
+              "RelativeToolTip": "Infrastructure\\StoreMiddlewares\\LoggingMiddlewares.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T15:23:55.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FetchForecastsActionSuccess.cs",
+              "DocumentMoniker": "C:\\MyGit\\Personal\\FluxorPoc\\Areas\\Weather\\Shared\\State\\Actions\\FetchForecastsActionSuccess.cs",
+              "RelativeDocumentMoniker": "Areas\\Weather\\Shared\\State\\Actions\\FetchForecastsActionSuccess.cs",
+              "ToolTip": "C:\\MyGit\\Personal\\FluxorPoc\\Areas\\Weather\\Shared\\State\\Actions\\FetchForecastsActionSuccess.cs",
+              "RelativeToolTip": "Areas\\Weather\\Shared\\State\\Actions\\FetchForecastsActionSuccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T15:16:29.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FetchForecastsActionEffect.cs",
+              "DocumentMoniker": "C:\\MyGit\\Personal\\FluxorPoc\\Areas\\Weather\\Shared\\State\\Effects\\FetchForecastsActionEffect.cs",
+              "RelativeDocumentMoniker": "Areas\\Weather\\Shared\\State\\Effects\\FetchForecastsActionEffect.cs",
+              "ToolTip": "C:\\MyGit\\Personal\\FluxorPoc\\Areas\\Weather\\Shared\\State\\Effects\\FetchForecastsActionEffect.cs",
+              "RelativeToolTip": "Areas\\Weather\\Shared\\State\\Effects\\FetchForecastsActionEffect.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T15:10:50.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FetchForecastsAction.cs",
+              "DocumentMoniker": "C:\\MyGit\\Personal\\FluxorPoc\\Areas\\Weather\\Shared\\State\\Actions\\FetchForecastsAction.cs",
+              "RelativeDocumentMoniker": "Areas\\Weather\\Shared\\State\\Actions\\FetchForecastsAction.cs",
+              "ToolTip": "C:\\MyGit\\Personal\\FluxorPoc\\Areas\\Weather\\Shared\\State\\Actions\\FetchForecastsAction.cs",
+              "RelativeToolTip": "Areas\\Weather\\Shared\\State\\Actions\\FetchForecastsAction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T15:07:24.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WeatherReducers.cs",
+              "DocumentMoniker": "C:\\MyGit\\Personal\\FluxorPoc\\Areas\\Weather\\Shared\\State\\WeatherReducers.cs",
+              "RelativeDocumentMoniker": "Areas\\Weather\\Shared\\State\\WeatherReducers.cs",
+              "ToolTip": "C:\\MyGit\\Personal\\FluxorPoc\\Areas\\Weather\\Shared\\State\\WeatherReducers.cs",
+              "RelativeToolTip": "Areas\\Weather\\Shared\\State\\WeatherReducers.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAA8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T15:06:55.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Weather.razor.cs",
+              "DocumentMoniker": "C:\\MyGit\\Personal\\FluxorPoc\\Areas\\Weather\\Forecast\\Weather.razor.cs",
+              "RelativeDocumentMoniker": "Areas\\Weather\\Forecast\\Weather.razor.cs",
+              "ToolTip": "C:\\MyGit\\Personal\\FluxorPoc\\Areas\\Weather\\Forecast\\Weather.razor.cs",
+              "RelativeToolTip": "Areas\\Weather\\Forecast\\Weather.razor.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAUwA8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T15:05:18.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WeatherforecastDto.cs",
+              "DocumentMoniker": "C:\\MyGit\\Personal\\FluxorPoc\\Areas\\Weather\\Shared\\Dtos\\WeatherforecastDto.cs",
+              "RelativeDocumentMoniker": "Areas\\Weather\\Shared\\Dtos\\WeatherforecastDto.cs",
+              "ToolTip": "C:\\MyGit\\Personal\\FluxorPoc\\Areas\\Weather\\Shared\\Dtos\\WeatherforecastDto.cs",
+              "RelativeToolTip": "Areas\\Weather\\Shared\\Dtos\\WeatherforecastDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T15:04:22.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "C:\\MyGit\\Personal\\FluxorPoc\\Areas\\Weather\\Forecast\\Weather.razor",
+              "RelativeDocumentMoniker": "Areas\\Weather\\Forecast\\Weather.razor",
+              "ToolTip": "C:\\MyGit\\Personal\\FluxorPoc\\Areas\\Weather\\Forecast\\Weather.razor",
+              "RelativeToolTip": "Areas\\Weather\\Forecast\\Weather.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-23T15:03:36.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WeatherDataService.cs",
+              "DocumentMoniker": "C:\\MyGit\\Personal\\FluxorPoc\\Areas\\Weather\\Shared\\Services\\Implementation\\WeatherDataService.cs",
+              "RelativeDocumentMoniker": "Areas\\Weather\\Shared\\Services\\Implementation\\WeatherDataService.cs",
+              "ToolTip": "C:\\MyGit\\Personal\\FluxorPoc\\Areas\\Weather\\Shared\\Services\\Implementation\\WeatherDataService.cs",
+              "RelativeToolTip": "Areas\\Weather\\Shared\\Services\\Implementation\\WeatherDataService.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAB4AAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T15:03:21.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IWeatherDataService.cs",
+              "DocumentMoniker": "C:\\MyGit\\Personal\\FluxorPoc\\Areas\\Weather\\Shared\\Services\\IWeatherDataService.cs",
+              "RelativeDocumentMoniker": "Areas\\Weather\\Shared\\Services\\IWeatherDataService.cs",
+              "ToolTip": "C:\\MyGit\\Personal\\FluxorPoc\\Areas\\Weather\\Shared\\Services\\IWeatherDataService.cs",
+              "RelativeToolTip": "Areas\\Weather\\Shared\\Services\\IWeatherDataService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T15:03:02.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherState.cs",
+              "DocumentMoniker": "C:\\MyGit\\Personal\\FluxorPoc\\Areas\\Weather\\Shared\\State\\WeatherState.cs",
+              "RelativeDocumentMoniker": "Areas\\Weather\\Shared\\State\\WeatherState.cs",
+              "ToolTip": "C:\\MyGit\\Personal\\FluxorPoc\\Areas\\Weather\\Shared\\State\\WeatherState.cs",
+              "RelativeToolTip": "Areas\\Weather\\Shared\\State\\WeatherState.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAAwAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T15:01:31.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Counter.razor.cs",
+              "DocumentMoniker": "C:\\MyGit\\Personal\\FluxorPoc\\Areas\\Counter\\Overview\\Counter.razor.cs",
+              "RelativeDocumentMoniker": "Areas\\Counter\\Overview\\Counter.razor.cs",
+              "ToolTip": "C:\\MyGit\\Personal\\FluxorPoc\\Areas\\Counter\\Overview\\Counter.razor.cs",
+              "RelativeToolTip": "Areas\\Counter\\Overview\\Counter.razor.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T14:58:40.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CounterState.cs",
+              "DocumentMoniker": "C:\\MyGit\\Personal\\FluxorPoc\\Areas\\Counter\\Shared\\State\\CounterState.cs",
+              "RelativeDocumentMoniker": "Areas\\Counter\\Shared\\State\\CounterState.cs",
+              "ToolTip": "C:\\MyGit\\Personal\\FluxorPoc\\Areas\\Counter\\Shared\\State\\CounterState.cs",
+              "RelativeToolTip": "Areas\\Counter\\Shared\\State\\CounterState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T14:58:40.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CounterStateReducers.cs",
+              "DocumentMoniker": "C:\\MyGit\\Personal\\FluxorPoc\\Areas\\Counter\\Shared\\State\\CounterStateReducers.cs",
+              "RelativeDocumentMoniker": "Areas\\Counter\\Shared\\State\\CounterStateReducers.cs",
+              "ToolTip": "C:\\MyGit\\Personal\\FluxorPoc\\Areas\\Counter\\Shared\\State\\CounterStateReducers.cs",
+              "RelativeToolTip": "Areas\\Counter\\Shared\\State\\CounterStateReducers.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAnwAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T14:58:40.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IncrementCounterAction.cs",
+              "DocumentMoniker": "C:\\MyGit\\Personal\\FluxorPoc\\Areas\\Counter\\Shared\\State\\Actions\\IncrementCounterAction.cs",
+              "RelativeDocumentMoniker": "Areas\\Counter\\Shared\\State\\Actions\\IncrementCounterAction.cs",
+              "ToolTip": "C:\\MyGit\\Personal\\FluxorPoc\\Areas\\Counter\\Shared\\State\\Actions\\IncrementCounterAction.cs",
+              "RelativeToolTip": "Areas\\Counter\\Shared\\State\\Actions\\IncrementCounterAction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T14:58:40.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\MyGit\\Personal\\FluxorPoc\\Areas\\Counter\\Overview\\Counter.razor",
+              "RelativeDocumentMoniker": "Areas\\Counter\\Overview\\Counter.razor",
+              "ToolTip": "C:\\MyGit\\Personal\\FluxorPoc\\Areas\\Counter\\Overview\\Counter.razor",
+              "RelativeToolTip": "Areas\\Counter\\Overview\\Counter.razor",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-23T14:58:32.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\MyGit\\Personal\\FluxorPoc\\App.razor",
+              "RelativeDocumentMoniker": "App.razor",
+              "ToolTip": "C:\\MyGit\\Personal\\FluxorPoc\\App.razor",
+              "RelativeToolTip": "App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-23T14:58:16.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MyGit\\Personal\\FluxorPoc\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\MyGit\\Personal\\FluxorPoc\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T14:56:28.468Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
